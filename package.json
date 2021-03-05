@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@types/express": "^4.17.11",
+    "@types/sequelize": "^4.28.9",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.5.0",
+    "sequelize-cli": "^6.2.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "faker": "^5.4.0",
+    "mocha": "^8.3.0",
+    "nodemon": "^2.0.7",
+    "supertest": "^6.1.3"
+  },
+  "name": "sakila",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test mocha --check-leaks --watch \"test/specs.js\"",
+    "node": "NODE_ENV=production node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

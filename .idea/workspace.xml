@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fcb25d9-efda-47fe-b0f4-746f8855dbf8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1owsDwVBJ5pK3RpEizTUjsmU0yx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="sakila Test.Routes.Assign actor to film" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/specs.js</test-file>
+      <test-names>
+        <name value="sakila Test" />
+        <name value="Routes" />
+        <name value="Assign actor to film" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.sakila Test.Routes.Assign actor to film" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fcb25d9-efda-47fe-b0f4-746f8855dbf8" name="Default Changelist" comment="" />
+      <created>1614208871070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614208871070</updated>
+      <workItem from="1614208872193" duration="5313000" />
+      <workItem from="1614287922420" duration="11729000" />
+      <workItem from="1614370798580" duration="2214000" />
+      <workItem from="1614446104307" duration="7000" />
+      <workItem from="1614631227098" duration="514000" />
+      <workItem from="1614641850338" duration="5266000" />
+      <workItem from="1614717094133" duration="8192000" />
+      <workItem from="1614801089188" duration="9950000" />
+      <workItem from="1614879152337" duration="277000" />
+      <workItem from="1614886723036" duration="14810000" />
+      <workItem from="1614972965335" duration="3017000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="380" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614899524997">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="743" y="380" key="#com.intellij.execution.impl.EditConfigurationsDialog/267.1440.1680.1050/0.0.2560.1440/2560.360.1920.1080@0.0.2560.1440" timestamp="1614899524997" />
+    <state x="1028" y="527" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614899510011">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1028" y="527" key="#com.intellij.fileTypes.FileTypeChooser/267.1440.1680.1050/0.0.2560.1440/2560.360.1920.1080@0.0.2560.1440" timestamp="1614899510011" />
+    <state x="1156" y="621" width="485" height="198" key="Github.ShareDialog" timestamp="1614977540457">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1156" y="621" width="485" height="198" key="Github.ShareDialog/267.1440.1680.1050/0.0.2560.1440/2560.360.1920.1080@0.0.2560.1440" timestamp="1614977540457" />
+    <state width="1659" height="414" key="GridCell.Tab.0.bottom" timestamp="1614878926742">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1659" height="414" key="GridCell.Tab.0.bottom/1920.0.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1614878926742" />
+    <state width="2539" height="414" key="GridCell.Tab.0.bottom/267.1440.1680.1050/0.0.2560.1440/2560.360.1920.1080@0.0.2560.1440" timestamp="1614819237286" />
+    <state width="1659" height="414" key="GridCell.Tab.0.center" timestamp="1614878926738">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1659" height="414" key="GridCell.Tab.0.center/1920.0.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1614878926738" />
+    <state width="2539" height="414" key="GridCell.Tab.0.center/267.1440.1680.1050/0.0.2560.1440/2560.360.1920.1080@0.0.2560.1440" timestamp="1614819237277" />
+    <state width="1659" height="414" key="GridCell.Tab.0.left" timestamp="1614878926738">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1659" height="414" key="GridCell.Tab.0.left/1920.0.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1614878926738" />
+    <state width="2539" height="414" key="GridCell.Tab.0.left/267.1440.1680.1050/0.0.2560.1440/2560.360.1920.1080@0.0.2560.1440" timestamp="1614819237276" />
+    <state width="1659" height="414" key="GridCell.Tab.0.right" timestamp="1614878926739">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1659" height="414" key="GridCell.Tab.0.right/1920.0.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1614878926739" />
+    <state width="2539" height="414" key="GridCell.Tab.0.right/267.1440.1680.1050/0.0.2560.1440/2560.360.1920.1080@0.0.2560.1440" timestamp="1614819237285" />
+    <state x="789" y="356" key="SettingsEditor" timestamp="1614977715739">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="789" y="356" key="SettingsEditor/267.1440.1680.1050/0.0.2560.1440/2560.360.1920.1080@0.0.2560.1440" timestamp="1614977715739" />
+    <state x="979" y="475" width="602" height="490" key="find.popup" timestamp="1614901753094">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="979" y="475" width="602" height="490" key="find.popup/267.1440.1680.1050/0.0.2560.1440/2560.360.1920.1080@0.0.2560.1440" timestamp="1614901753094" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1614976518171">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/267.1440.1680.1050/0.0.2560.1440/2560.360.1920.1080@0.0.2560.1440" timestamp="1614976518171" />
+  </component>
+</project>
